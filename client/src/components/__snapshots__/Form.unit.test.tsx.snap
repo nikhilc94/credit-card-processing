@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Form component renders successfully 1`] = `
+<div
+  className="form-container"
+>
+  <form
+    onSubmit={[Function]}
+  >
+    <label>
+      Name
+      <input
+        name="name"
+        onChange={[Function]}
+        required={true}
+        type="text"
+        value=""
+      />
+    </label>
+    <label>
+      Card number
+      <input
+        name="cardNumber"
+        onChange={[Function]}
+        required={true}
+        type="number"
+        value=""
+      />
+    </label>
+    <label>
+      Limit
+      <input
+        name="cardLimit"
+        onChange={[Function]}
+        required={true}
+        type="number"
+        value=""
+      />
+    </label>
+    <button
+      type="submit"
+    >
+      Add
+    </button>
+  </form>
+</div>
+`;

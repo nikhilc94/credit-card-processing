@@ -1,0 +1,24 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App component renders successfully 1`] = `
+<div
+  className="app-container"
+>
+  <h2>
+    Credit Card System
+  </h2>
+  <h3>
+    Add
+  </h3>
+  <Form
+    setCardDetails={[Function]}
+  />
+  <h3>
+    Existing Cards
+  </h3>
+  <Table
+    cardDetails={Array []}
+    setCardDetails={[Function]}
+  />
+</div>
+`;

@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Table component renders successfully 1`] = `
+<table>
+  <thead>
+    <tr>
+      <th>
+        Name
+      </th>
+      <th>
+        Card Number
+      </th>
+      <th>
+        Balance
+      </th>
+      <th>
+        Limit
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr
+      key="djedhednwjksnwjwhw_ww"
+    >
+      <td>
+        Test user
+      </td>
+      <td>
+        4567834619
+      </td>
+      <td>
+        £0
+      </td>
+      <td>
+        £3,500
+      </td>
+    </tr>
+    <tr
+      key="mnfgeyyyyyssnwjwhw3d"
+    >
+      <td>
+        Test user second
+      </td>
+      <td>
+        0964387189
+      </td>
+      <td>
+        £0
+      </td>
+      <td>
+        £10,000
+      </td>
+    </tr>
+  </tbody>
+</table>
+`;
