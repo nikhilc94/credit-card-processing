@@ -6,7 +6,7 @@ let should = chai.should();
 
 chai.use(chaiHttp);
 
-describe("Credit card API routes", () => {
+describe("Credit card API routes testing", () => {
   it("fetches stored credit card information.", done => {
     chai
       .request(app)
